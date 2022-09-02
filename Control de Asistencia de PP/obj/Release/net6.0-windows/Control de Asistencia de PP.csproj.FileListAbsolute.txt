@@ -1,0 +1,30 @@
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\bin\Release\net6.0-windows\Control de Asistencia de PP.exe
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\bin\Release\net6.0-windows\Control de Asistencia de PP.deps.json
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\bin\Release\net6.0-windows\Control de Asistencia de PP.runtimeconfig.json
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\bin\Release\net6.0-windows\Control de Asistencia de PP.dll
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\bin\Release\net6.0-windows\Control de Asistencia de PP.pdb
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\bin\Release\net6.0-windows\MySql.Data.dll
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\bin\Release\net6.0-windows\Google.Protobuf.dll
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\bin\Release\net6.0-windows\ZstdNet.dll
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\bin\Release\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\bin\Release\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\bin\Release\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\bin\Release\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\bin\Release\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\bin\Release\net6.0-windows\MySql.Data.xml
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\obj\Release\net6.0-windows\Control de Asistencia de PP.csproj.AssemblyReference.cache
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\obj\Release\net6.0-windows\Control_de_Asistencia_de_PP.Alumno.resources
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\obj\Release\net6.0-windows\Control_de_Asistencia_de_PP.Asociar.resources
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\obj\Release\net6.0-windows\Control_de_Asistencia_de_PP.Form1.resources
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\obj\Release\net6.0-windows\Control_de_Asistencia_de_PP.Datos.resources
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\obj\Release\net6.0-windows\Control de Asistencia de PP.csproj.GenerateResource.cache
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\obj\Release\net6.0-windows\Control de Asistencia de PP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\obj\Release\net6.0-windows\Control de Asistencia de PP.AssemblyInfoInputs.cache
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\obj\Release\net6.0-windows\Control de Asistencia de PP.AssemblyInfo.cs
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\obj\Release\net6.0-windows\Control de Asistencia de PP.csproj.CoreCompileInputs.cache
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\obj\Release\net6.0-windows\Control de Asistencia de PP.csproj.CopyComplete
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\obj\Release\net6.0-windows\Control de Asistencia de PP.dll
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\obj\Release\net6.0-windows\refint\Control de Asistencia de PP.dll
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\obj\Release\net6.0-windows\Control de Asistencia de PP.pdb
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\obj\Release\net6.0-windows\Control de Asistencia de PP.genruntimeconfig.cache
+C:\Users\xxxx\Desktop\Proyecto Asistencia de Virtualizacion\Test\Control de Asistencia de PP\Control de Asistencia de PP\obj\Release\net6.0-windows\ref\Control de Asistencia de PP.dll
